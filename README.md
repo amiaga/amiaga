@@ -12,19 +12,18 @@
 ---
 
 ### 🛠️ Technologie i Narzędzia
-
-* **Języki programowania:** **Python** (zaawansowany), Java
+* **Języki programowania:** **Python**, Java, PHP 
 * **Data Science & ML:** Pandas, NumPy, Scikit-learn, PyTorch, PySpark, Matplotlib, Seaborn, Jupyter Notebook
 * **Bazy danych:** **SQL (PostgreSQL)**, NoSQL (MongoDB), pgAdmin, MySQL, Laravel Eloquent ORM
-* **Web Development:** Spring Boot, Spring MVC, JPA, Thymeleaf
+* **Web Development:** Spring Boot, Spring MVC, JPA, Thymeleaf, Laravel
 * **Inne:** Linux, Git, Docker (podstawy), CISCO Networking (podstawy - CCNAv7 Intro)
-* **Metodologie:** CRUD
+* **Metodologie:** CRUD, Agile
 
 ---
 
 ### 🚀 Moje Projekty
 
-Oto kilka projektów, nad którymi pracowałam:
+Oto kilka projektów, nad którymi pracowałam/pracuję:
 
 1.  **System predykcyjny do przeciwdziałania nierównościom edukacyjnym**
     * **Opis:** System wykorzystujący algorytmy ML do wczesnej identyfikacji uczniów zagrożonych niepowodzeniem szkolnym na podstawie danych edukacyjnych i socjoekonomicznych. Zawiera interaktywny dashboard analityczny (Streamlit), symulator interwencji i system rekomendacji.
