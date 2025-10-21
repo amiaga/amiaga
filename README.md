@@ -1,17 +1,17 @@
-# 👋 Cześć, jestem Agata!
+#  Cześć, jestem Agata!
 
 [![GitHub Badge](https://img.shields.io/badge/GitHub-amiaga-blue?style=flat-square&logo=github)](https://github.com/amiaga)  
 ✉️ **Kontakt:** stramska.agata@wp.pl
 
 ---
 
-👩‍💻 Jestem studentką III roku **informatyki** na **Uniwersytecie Morskim w Gdyni**, pasjonującą się **Data Science, Sztuczną Inteligencją (AI) i Machine Learning (ML)**. Moim celem jest wykorzystanie potencjału danych do tworzenia inteligentnych rozwiązań i wspierania procesów decyzyjnych.
+ Jestem studentką III roku **informatyki** na **Uniwersytecie Morskim w Gdyni**, pasjonującą się **Data Science, Sztuczną Inteligencją (AI) i Machine Learning (ML)**. Moim celem jest wykorzystanie potencjału danych do tworzenia inteligentnych rozwiązań i wspierania procesów decyzyjnych.
 
-💡 Charakteryzuje mnie **analityczne myślenie** oraz silna motywacja do ciągłego rozwoju w obszarze analizy danych i uczenia maszynowego. Aktywnie poszukuję możliwości **praktycznego zastosowania wiedzy akademickiej** i zdobycia cennego doświadczenia zawodowego, szczególnie w analityce.
+ Charakteryzuje mnie **analityczne myślenie** oraz silna motywacja do ciągłego rozwoju w obszarze analizy danych i uczenia maszynowego. Aktywnie poszukuję możliwości **praktycznego zastosowania wiedzy akademickiej** i zdobycia cennego doświadczenia zawodowego, szczególnie w analityce.
 
 ---
 
-### 🛠️ Technologie i Narzędzia
+### Technologie i Narzędzia
 * **Języki programowania:** **Python**, Java, PHP 
 * **Data Science & ML:** Pandas, NumPy, Scikit-learn, PyTorch, PySpark, Matplotlib, Seaborn, Jupyter Notebook
 * **Bazy danych:** **SQL (PostgreSQL)**, NoSQL (MongoDB), pgAdmin, MySQL, Laravel Eloquent ORM
@@ -21,7 +21,7 @@
 
 ---
 
-### 🚀 Moje Projekty
+###  Moje Projekty
 
 Oto kilka projektów, nad którymi pracowałam/pracuję:
 
@@ -35,9 +35,9 @@ Oto kilka projektów, nad którymi pracowałam/pracuję:
 
 ---
 
-### 🏆 Osiągnięcia
+###  Osiągnięcia
 * Certyfikat CCNAv7: Introduction to Networks.
 
 ---
 
-📫 **Zapraszam do kontaktu!** Jestem otwarta na współpracę przy ciekawych projektach oraz na oferty praktyk/staży w obszarze Data Science i analityki danych.
+ **Zapraszam do kontaktu!** Jestem otwarta na współpracę przy ciekawych projektach oraz na oferty praktyk/staży w obszarze Data Science i analityki danych.
